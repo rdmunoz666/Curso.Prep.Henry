@@ -1,0 +1,7 @@
+Variable: Es la forma de almacenar el valor de algo, generalmente para ser usado adelante.
+String: Tipo de variable que consiste un una serie de caracteres, y que esta delimitado por comillas ''
+Funciones: Es un tipo de objeto dentro de JS llamado 'callable object'.
+    Argumentos: Son los tipos de valores bajo los cuales se evalua una funcion.
+    Return: Nos devuelve cualquier valor calculado mediante una funcion, al mismo tiempo que detiene la ejecucion de dicha funcion.
+Declaraciones if: Se utilizan como controlador de flujo y sirve para evaluar si algo es verdadero o no.
+Valores booleanos: Son dos tipos de variables que tienen unicamente dos posibilidades, verdadero o falso, 1 o 0.
