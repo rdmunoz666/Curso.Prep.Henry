@@ -1,0 +1,4 @@
+for: es una expresion que se usa para la creacion de un bucle, el cual ejecuta un codigo hasta que la expresion que delimita el bucle toma el valor false.
+&& es un operador de comparacion que implica que las condiciones se deben cumplir, en caso contrario tomara valor false
+|| es un operador de comparacion que implica que cualquiera de las condiciones se deben cumplir, en caso contrario tomara valor false
+! (NOT) es un operador de comparacion que le indica al programa que se debe evaluar lo contrario a los operadores de comparacion que lo proceden.
