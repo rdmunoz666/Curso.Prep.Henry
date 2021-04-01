@@ -1,0 +1,1 @@
+Arrays: Lista de objetos de la misma o diferente clase o tipo, que se declara entre [] y que tiene metodos y propiedades caracteristicas.
