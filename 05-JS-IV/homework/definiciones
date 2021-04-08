@@ -1,0 +1,5 @@
+Objeto: Clase de Javascript que contiene muchas propiedades.
+Propiedades: Es la asociacion entre un nombre y un valor.
+Metodos: Propiedad del objeto cuyo valor es una funcion.
+Bucle for...in: Bucle que se usa en lugar del bucle for cuando los parametros no son numericos y/o no estan ordenados.
+Notacion de puntos vs. notacion de corchetes: son dos tipos distintos de notacion que se usan para referirse a propiedades de los objetos, por ejemplo: objeto.propiedad === objeto['propiedad']
